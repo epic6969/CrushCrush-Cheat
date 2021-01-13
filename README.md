@@ -6,3 +6,7 @@ Options:
  - Gems
  - More Soon..
  
+ Credits: 
+  - https://guidedhacking.com/
+  - SadPandaStudios for Game
+ 
