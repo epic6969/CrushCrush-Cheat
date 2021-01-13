@@ -3,6 +3,6 @@
 Trainer for Crush Crush game on PC (Steam Version, not browser)
 
 Options:
- - Gems (Done)
+ - Gems
  - More Soon..
  
