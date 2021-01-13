@@ -1,0 +1,11 @@
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\CrushCrush_Cheat.exe
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\CrushCrush_Cheat.pdb
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\Serilog.dll
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\Serilog.Sinks.Console.dll
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\Serilog.xml
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\bin\Release\Serilog.Sinks.Console.xml
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\obj\Release\CrushCrush_Cheat.csprojAssemblyReference.cache
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\obj\Release\CrushCrush_Cheat.csproj.CoreCompileInputs.cache
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\obj\Release\CrushCrush_Cheat.csproj.CopyComplete
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\obj\Release\CrushCrush_Cheat.exe
+C:\Users\trymz\RiderProjects\CrushCrush_Cheat\obj\Release\CrushCrush_Cheat.pdb
