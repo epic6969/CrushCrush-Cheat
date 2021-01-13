@@ -10,6 +10,6 @@ Options:
  - More Soon..
  
  Credits: 
-  - https://guidedhacking.com/
-  - SadPandaStudios for Game
+  - https://guidedhacking.com/ for good tutorials and nice community.
+  - SadPandaStudios for making CrushCrush
  
